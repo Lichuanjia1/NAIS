@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAIS.BLL", "NAIS.BLL\NAIS.BLL.csproj", "{F7B936DF-9E1D-4A27-9ACF-242367BB5D54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAIS.DAL", "NAIS.DAL\NAIS.DAL.csproj", "{D2DBB33D-C3CD-4B9E-827D-9D60E598934C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAIS.DBUtility", "NAIS.DBUtility\NAIS.DBUtility.csproj", "{75A11468-CA41-46E2-9C8A-4F89A86F062B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAIS.Model", "NAIS.Model\NAIS.Model.csproj", "{127D73D1-7D98-4638-AD76-2C5EDE9D8134}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAIS.Lib", "NAIS.Lib\NAIS.Lib.csproj", "{642657E0-7A47-4884-8DFD-2120E17A7BD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAIS.Web", "NAIS.Web\NAIS.Web.csproj", "{712F404F-C3C2-445F-BAB6-C9FEB360F6BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7B936DF-9E1D-4A27-9ACF-242367BB5D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B936DF-9E1D-4A27-9ACF-242367BB5D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B936DF-9E1D-4A27-9ACF-242367BB5D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B936DF-9E1D-4A27-9ACF-242367BB5D54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2DBB33D-C3CD-4B9E-827D-9D60E598934C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2DBB33D-C3CD-4B9E-827D-9D60E598934C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2DBB33D-C3CD-4B9E-827D-9D60E598934C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2DBB33D-C3CD-4B9E-827D-9D60E598934C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75A11468-CA41-46E2-9C8A-4F89A86F062B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A11468-CA41-46E2-9C8A-4F89A86F062B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A11468-CA41-46E2-9C8A-4F89A86F062B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A11468-CA41-46E2-9C8A-4F89A86F062B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{127D73D1-7D98-4638-AD76-2C5EDE9D8134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{127D73D1-7D98-4638-AD76-2C5EDE9D8134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{127D73D1-7D98-4638-AD76-2C5EDE9D8134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{127D73D1-7D98-4638-AD76-2C5EDE9D8134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{642657E0-7A47-4884-8DFD-2120E17A7BD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{642657E0-7A47-4884-8DFD-2120E17A7BD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{642657E0-7A47-4884-8DFD-2120E17A7BD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{642657E0-7A47-4884-8DFD-2120E17A7BD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{712F404F-C3C2-445F-BAB6-C9FEB360F6BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{712F404F-C3C2-445F-BAB6-C9FEB360F6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{712F404F-C3C2-445F-BAB6-C9FEB360F6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{712F404F-C3C2-445F-BAB6-C9FEB360F6BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA5FF395-8767-490A-8C48-D3CF4214BD76}
+	EndGlobalSection
+EndGlobal
